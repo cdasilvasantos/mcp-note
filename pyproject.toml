@@ -1,0 +1,10 @@
+[project]
+name = "mcp-note"
+version = "0.1.0"
+description = "Universal Project Notes Tool CLI for managing project-scoped notes"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+mcp-note = "main:main"
