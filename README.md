@@ -18,7 +18,7 @@ The Universal Project Notes Tool (`mcp-note`) is a CLI tool that allows develope
 - **Simple storage format**: Plain text file with timestamps and IDs
 
 ## Commands
-
+"TEST"
 The `mcp-note` CLI provides the following commands:
 
 ### Add a Note
@@ -55,7 +55,7 @@ Removes the note with the specified ID from the project's notes file.
 
 2. Set up a virtual environment:
    ```bash
-   python -m venv .venv
+   python -m venv .venv or python3 -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    ```
 
